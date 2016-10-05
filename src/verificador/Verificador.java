@@ -6,7 +6,6 @@
 package verificador;
 
 import java.sql.SQLException;
-import verificador.datos.*;
 
 /**
  *
@@ -20,11 +19,8 @@ public class Verificador {
     public static void main(String[] args) throws SQLException {
         // TODO code application logic here
         new presentacion.pantallaPrecio().setVisible(true);
-        //new brach
-        // new branch github
-        //asdasdasdasdasd 
-        //
-       
+        
+      
         
     }
     
