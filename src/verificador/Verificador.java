@@ -21,7 +21,7 @@ public class Verificador {
         // TODO code application logic here
         new presentacion.pantallaPrecio().setVisible(true);
         //new brach
-        // new branch github
+        //new branch github
         
     }
     
