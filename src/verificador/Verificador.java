@@ -22,6 +22,7 @@ public class Verificador {
         new presentacion.pantallaPrecio().setVisible(true);
         //new brach
         // new branch github
+        //asdasdasdasdasd
         
     }
     
